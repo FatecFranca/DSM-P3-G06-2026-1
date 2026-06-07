@@ -32,7 +32,7 @@ A **Pixelate** surge como solução centralizada para esse problema, conectando 
 
 ---
 
-## Tecnologias Utilizadas
+## Linguagens Utilizadas
 
 - **Front-end:** React.js, HTML, CSS, JavaScript
 - **Back-end:** Node.js
